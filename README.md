@@ -12,4 +12,4 @@ brew install ElyOgl/tap/mulot
 
 Each formula installs the prebuilt binaries attached to that project's GitHub release, and the project's release workflow updates it automatically.
 
-`vigil` was renamed to `mulot` in 0.2.0. `brew update` migrates existing installs.
+`vigil` was renamed to `mulot` in 0.2.0. To switch: `brew uninstall vigil && brew install ElyOgl/tap/mulot`.
